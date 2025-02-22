@@ -8,7 +8,7 @@ const Dashboard = () => {
       </div>
         <div className='absolute top-[30%] left-[30%] z-20 backdrop-blur-sm backdrop-grayscale-25 '>
           <h1 className='text-6xl font-semibold text-teal-900'>Hello User,</h1>
-          <p>Initial Path is the toughest! Go through the learning modules, or reach out to your fundraising manager to level up.</p>
+          <p className=''>Initial Path is the toughest! Go through the learning modules, or reach out to your fundraising manager to level up.</p>
         </div>
     </div>
   )

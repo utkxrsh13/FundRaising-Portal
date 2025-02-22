@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className='h-20 shadow-2xl'>
       <div className='h-screen fixed bg-white shadow-2xl shadow-gray-500 w-[20%] pl-2 justify-between'>
         <div className='flex mb-10 pl-2 pt-4 h-20 text-center items-center gap-2'>
-        <Link className='flex gap-2 items-center shadow-lg w-full pb-2' to={'/'}><h1 className='w-[80%] p-5 pl-8 pr-8 border-2 border-blue-400 rounded-xl'>Logo</h1><i className="ri-menu-fold-2-fill text-2xl"></i></Link>
+        <Link className='flex gap-2 items-center shadow-lg w-full pb-2' to={'/'}><h1 className='w-[80%] p-5 pl-8 pr-8 border-2 border-blue-400 rounded-xl'>Fund4Good</h1><i className="ri-menu-fold-2-fill text-2xl"></i></Link>
         </div>
         <div className='pl-8'>
           <div className='leading-4 mb-4 bg-red-100 rounded-xl mr-4 p-2'>
